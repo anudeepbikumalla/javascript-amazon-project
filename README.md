@@ -35,6 +35,3 @@ Once GitHub Pages is enabled, you can view the live version here:
 
 (Replace `your-live-link` with the actual URL from GitHub Pages.)
 
----
-
-There you go! This should give a nice, clear overview of your project structure and features. Feel free to tweak any part of it, and let me know if you need any more changes!
