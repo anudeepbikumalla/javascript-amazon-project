@@ -33,5 +33,3 @@ Once GitHub Pages is enabled, you can view the live version here:
 
 **[View the Amazon Clone Live!](your-live-link)**
 
-(Replace `your-live-link` with the actual URL from GitHub Pages.)
-
