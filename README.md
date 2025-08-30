@@ -27,9 +27,8 @@ This is a simple Amazon clone built from scratch using HTML, CSS, and JavaScript
 
 You can view the project locally by cloning this repository and opening `amazon.html` in your browser.
 
-### Live Demo
+### Live Demo  
 
-Once GitHub Pages is enabled, you can view the live version here:
-
-**[View the Amazon Clone Live!](your-live-link)**
+Hosted on **GitHub Pages**:  
+👉 [View the Amazon Clone Live!](https://anudeepbikumalla.github.io/javascript-amazon-project/)  
 
