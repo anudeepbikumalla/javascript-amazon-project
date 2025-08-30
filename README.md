@@ -29,6 +29,6 @@ You can view the project locally by cloning this repository and opening `amazon.
 
 ### Live Demo  
 
-Hosted on **GitHub Pages**:  
-👉 [View the Amazon Clone Live!](https://anudeepbikumalla.github.io/javascript-amazon-project/)  
+👉 [View the Amazon Clone Live!](https://anudeepbikumalla.github.io/javascript-amazon-project/index.html)
+
 
